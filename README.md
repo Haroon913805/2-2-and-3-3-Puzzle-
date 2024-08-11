@@ -1,4 +1,4 @@
-# 2-2-and-3-3-Puzzle-
+# 2x2 and 3x3 Puzzle
 In this project, we aim to develop a solution for the sliding block puzzle problem using two search algorithms: A* and brute force. The initial focus will be on a 2x2 puzzle as a minimal example. The A* algorithm will be implemented with a suitable heuristic, while the brute force method will explore all possible moves until the solution is found. We will compare the performance of these algorithms based on several metrics, including the number of node expansions, the maximum number of nodes held in memory, and the number of search steps (state transitions).
 
 In the next phase, the application will be expanded to handle a 3x3 sliding block puzzle (9 fields). The performance of the A* and brute force algorithms will again be compared using the same metrics. The goal is to analyze and evaluate the efficiency of both algorithms, particularly in terms of their computational and memory requirements, as the complexity of the puzzle increases. This project will provide insights into the practical application of search algorithms in solving combinatorial problems.
